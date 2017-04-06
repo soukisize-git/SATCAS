@@ -6,7 +6,7 @@
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="contentBody" runat="server">
     <div class="container-fluid">
-        <br /><br />
+
         <div class="row">
             <div class="col-md-12">
                 <div style="padding-left: 20px">
@@ -20,16 +20,6 @@
                         <asp:ListItem>Spring 2016</asp:ListItem>
                         <asp:ListItem>Fall 2015</asp:ListItem>
                     </asp:DropDownList>
-                </div>
-            </div>
-        </div>
-        <br />
-        <div class="row">
-            <div class="col-md-12">
-                <div style="float: right; padding-right: 20px">
-                    <asp:Button ID="btnDashboard" runat="server" Text="Dashboard" Width="120px" Height="40px" CssClass="btn btn-temple" />
-                    <asp:Button runat="server" Text="Review Application" Width="150px" Height="40px" ID="btnFindCourse" CssClass="btn btn-temple" />
-                    <asp:Button ID="btnAddCourse" runat="server" Text="Logout" Width="120px" Height="40px" CssClass="btn btn-temple" />
                 </div>
             </div>
         </div>

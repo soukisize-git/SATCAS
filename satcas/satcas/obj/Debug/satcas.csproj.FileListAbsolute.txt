@@ -121,3 +121,24 @@ T:\Capstone 1\satcas\satcas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatfo
 T:\Capstone 1\satcas\satcas\obj\Debug\satcas.csprojResolveAssemblyReference.cache
 T:\Capstone 1\satcas\satcas\obj\Debug\satcas.dll
 T:\Capstone 1\satcas\satcas\obj\Debug\satcas.pdb
+C:\Users\Aram\Source\Repos\SATCAS\satcas\satcas\bin\roslyn\csc.exe
+C:\Users\Aram\Source\Repos\SATCAS\satcas\satcas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aram\Source\Repos\SATCAS\satcas\satcas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aram\Source\Repos\SATCAS\satcas\satcas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aram\Source\Repos\SATCAS\satcas\satcas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aram\Source\Repos\SATCAS\satcas\satcas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aram\Source\Repos\SATCAS\satcas\satcas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aram\Source\Repos\SATCAS\satcas\satcas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aram\Source\Repos\SATCAS\satcas\satcas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aram\Source\Repos\SATCAS\satcas\satcas\bin\roslyn\vbc.exe
+C:\Users\Aram\Source\Repos\SATCAS\satcas\satcas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aram\Source\Repos\SATCAS\satcas\satcas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aram\Source\Repos\SATCAS\satcas\satcas\bin\Images\Attach-Icon-25.png
+C:\Users\Aram\Source\Repos\SATCAS\satcas\satcas\bin\satcas.dll.config
+C:\Users\Aram\Source\Repos\SATCAS\satcas\satcas\bin\satcas.dll
+C:\Users\Aram\Source\Repos\SATCAS\satcas\satcas\bin\satcas.pdb
+C:\Users\Aram\Source\Repos\SATCAS\satcas\satcas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aram\Source\Repos\SATCAS\satcas\satcas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aram\Source\Repos\SATCAS\satcas\satcas\obj\Debug\satcas.csprojResolveAssemblyReference.cache
+C:\Users\Aram\Source\Repos\SATCAS\satcas\satcas\obj\Debug\satcas.dll
+C:\Users\Aram\Source\Repos\SATCAS\satcas\satcas\obj\Debug\satcas.pdb
