@@ -1,0 +1,123 @@
+T:\Study_Abroad_Infomation_System\satcas\satcas\bin\roslyn\csc.exe
+T:\Study_Abroad_Infomation_System\satcas\satcas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+T:\Study_Abroad_Infomation_System\satcas\satcas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+T:\Study_Abroad_Infomation_System\satcas\satcas\bin\roslyn\Microsoft.CodeAnalysis.dll
+T:\Study_Abroad_Infomation_System\satcas\satcas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+T:\Study_Abroad_Infomation_System\satcas\satcas\bin\roslyn\Microsoft.CSharp.Core.targets
+T:\Study_Abroad_Infomation_System\satcas\satcas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+T:\Study_Abroad_Infomation_System\satcas\satcas\bin\roslyn\System.Collections.Immutable.dll
+T:\Study_Abroad_Infomation_System\satcas\satcas\bin\roslyn\System.Reflection.Metadata.dll
+T:\Study_Abroad_Infomation_System\satcas\satcas\bin\roslyn\vbc.exe
+T:\Study_Abroad_Infomation_System\satcas\satcas\bin\roslyn\VBCSCompiler.exe
+T:\Study_Abroad_Infomation_System\satcas\satcas\bin\roslyn\VBCSCompiler.exe.config
+T:\Study_Abroad_Infomation_System\satcas\satcas\bin\satcas.dll.config
+T:\Study_Abroad_Infomation_System\satcas\satcas\bin\satcas.dll
+T:\Study_Abroad_Infomation_System\satcas\satcas\bin\satcas.pdb
+T:\Study_Abroad_Infomation_System\satcas\satcas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+T:\Study_Abroad_Infomation_System\satcas\satcas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+T:\Study_Abroad_Infomation_System\satcas\satcas\obj\Debug\satcas.csprojResolveAssemblyReference.cache
+T:\Study_Abroad_Infomation_System\satcas\satcas\obj\Debug\satcas.dll
+T:\Study_Abroad_Infomation_System\satcas\satcas\obj\Debug\satcas.pdb
+C:\Users\Eric Vo\Desktop\satcas\satcas\satcas\bin\roslyn\csc.exe
+C:\Users\Eric Vo\Desktop\satcas\satcas\satcas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Eric Vo\Desktop\satcas\satcas\satcas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eric Vo\Desktop\satcas\satcas\satcas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Eric Vo\Desktop\satcas\satcas\satcas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Eric Vo\Desktop\satcas\satcas\satcas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Eric Vo\Desktop\satcas\satcas\satcas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Eric Vo\Desktop\satcas\satcas\satcas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Eric Vo\Desktop\satcas\satcas\satcas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Eric Vo\Desktop\satcas\satcas\satcas\bin\roslyn\vbc.exe
+C:\Users\Eric Vo\Desktop\satcas\satcas\satcas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Eric Vo\Desktop\satcas\satcas\satcas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Eric Vo\Desktop\satcas\satcas\satcas\bin\satcas.dll.config
+C:\Users\Eric Vo\Desktop\satcas\satcas\satcas\bin\satcas.dll
+C:\Users\Eric Vo\Desktop\satcas\satcas\satcas\bin\satcas.pdb
+C:\Users\Eric Vo\Desktop\satcas\satcas\satcas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eric Vo\Desktop\satcas\satcas\satcas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eric Vo\Desktop\satcas\satcas\satcas\obj\Debug\satcas.csprojResolveAssemblyReference.cache
+C:\Users\Eric Vo\Desktop\satcas\satcas\satcas\obj\Debug\satcas.dll
+C:\Users\Eric Vo\Desktop\satcas\satcas\satcas\obj\Debug\satcas.pdb
+C:\Users\Cheng\Desktop\satcas\satcas\satcas\bin\roslyn\csc.exe
+C:\Users\Cheng\Desktop\satcas\satcas\satcas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Cheng\Desktop\satcas\satcas\satcas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Cheng\Desktop\satcas\satcas\satcas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Cheng\Desktop\satcas\satcas\satcas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Cheng\Desktop\satcas\satcas\satcas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Cheng\Desktop\satcas\satcas\satcas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Cheng\Desktop\satcas\satcas\satcas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Cheng\Desktop\satcas\satcas\satcas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Cheng\Desktop\satcas\satcas\satcas\bin\roslyn\vbc.exe
+C:\Users\Cheng\Desktop\satcas\satcas\satcas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Cheng\Desktop\satcas\satcas\satcas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Cheng\Desktop\satcas\satcas\satcas\bin\satcas.dll.config
+C:\Users\Cheng\Desktop\satcas\satcas\satcas\bin\satcas.dll
+C:\Users\Cheng\Desktop\satcas\satcas\satcas\bin\satcas.pdb
+C:\Users\Cheng\Desktop\satcas\satcas\satcas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Cheng\Desktop\satcas\satcas\satcas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Cheng\Desktop\satcas\satcas\satcas\obj\Debug\satcas.csprojResolveAssemblyReference.cache
+C:\Users\Cheng\Desktop\satcas\satcas\satcas\obj\Debug\satcas.dll
+C:\Users\Cheng\Desktop\satcas\satcas\satcas\obj\Debug\satcas.pdb
+C:\Users\Eric Vo\Desktop\satcas\satcas\satcas\satcas\bin\roslyn\csc.exe
+C:\Users\Eric Vo\Desktop\satcas\satcas\satcas\satcas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Eric Vo\Desktop\satcas\satcas\satcas\satcas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eric Vo\Desktop\satcas\satcas\satcas\satcas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Eric Vo\Desktop\satcas\satcas\satcas\satcas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Eric Vo\Desktop\satcas\satcas\satcas\satcas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Eric Vo\Desktop\satcas\satcas\satcas\satcas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Eric Vo\Desktop\satcas\satcas\satcas\satcas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Eric Vo\Desktop\satcas\satcas\satcas\satcas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Eric Vo\Desktop\satcas\satcas\satcas\satcas\bin\roslyn\vbc.exe
+C:\Users\Eric Vo\Desktop\satcas\satcas\satcas\satcas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Eric Vo\Desktop\satcas\satcas\satcas\satcas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Eric Vo\Desktop\satcas\satcas\satcas\satcas\bin\satcas.dll.config
+C:\Users\Eric Vo\Desktop\satcas\satcas\satcas\satcas\bin\satcas.dll
+C:\Users\Eric Vo\Desktop\satcas\satcas\satcas\satcas\bin\satcas.pdb
+C:\Users\Eric Vo\Desktop\satcas\satcas\satcas\satcas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eric Vo\Desktop\satcas\satcas\satcas\satcas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eric Vo\Desktop\satcas\satcas\satcas\satcas\obj\Debug\satcas.csprojResolveAssemblyReference.cache
+C:\Users\Eric Vo\Desktop\satcas\satcas\satcas\satcas\obj\Debug\satcas.dll
+C:\Users\Eric Vo\Desktop\satcas\satcas\satcas\satcas\obj\Debug\satcas.pdb
+C:\Users\Cheng\Desktop\satcas\satcas\satcas\bin\Images\Attach-Icon-25.png
+C:\Users\Cheng\Desktop\satcas\satcas\bin\roslyn\csc.exe
+C:\Users\Cheng\Desktop\satcas\satcas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Cheng\Desktop\satcas\satcas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Cheng\Desktop\satcas\satcas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Cheng\Desktop\satcas\satcas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Cheng\Desktop\satcas\satcas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Cheng\Desktop\satcas\satcas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Cheng\Desktop\satcas\satcas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Cheng\Desktop\satcas\satcas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Cheng\Desktop\satcas\satcas\bin\roslyn\vbc.exe
+C:\Users\Cheng\Desktop\satcas\satcas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Cheng\Desktop\satcas\satcas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Cheng\Desktop\satcas\satcas\bin\Images\Attach-Icon-25.png
+C:\Users\Cheng\Desktop\satcas\satcas\bin\satcas.dll.config
+C:\Users\Cheng\Desktop\satcas\satcas\bin\satcas.dll
+C:\Users\Cheng\Desktop\satcas\satcas\bin\satcas.pdb
+C:\Users\Cheng\Desktop\satcas\satcas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Cheng\Desktop\satcas\satcas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Cheng\Desktop\satcas\satcas\obj\Debug\satcas.csprojResolveAssemblyReference.cache
+C:\Users\Cheng\Desktop\satcas\satcas\obj\Debug\satcas.dll
+C:\Users\Cheng\Desktop\satcas\satcas\obj\Debug\satcas.pdb
+T:\Capstone 1\satcas\satcas\bin\roslyn\csc.exe
+T:\Capstone 1\satcas\satcas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+T:\Capstone 1\satcas\satcas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+T:\Capstone 1\satcas\satcas\bin\roslyn\Microsoft.CodeAnalysis.dll
+T:\Capstone 1\satcas\satcas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+T:\Capstone 1\satcas\satcas\bin\roslyn\Microsoft.CSharp.Core.targets
+T:\Capstone 1\satcas\satcas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+T:\Capstone 1\satcas\satcas\bin\roslyn\System.Collections.Immutable.dll
+T:\Capstone 1\satcas\satcas\bin\roslyn\System.Reflection.Metadata.dll
+T:\Capstone 1\satcas\satcas\bin\roslyn\vbc.exe
+T:\Capstone 1\satcas\satcas\bin\roslyn\VBCSCompiler.exe
+T:\Capstone 1\satcas\satcas\bin\roslyn\VBCSCompiler.exe.config
+T:\Capstone 1\satcas\satcas\bin\Images\Attach-Icon-25.png
+T:\Capstone 1\satcas\satcas\bin\satcas.dll.config
+T:\Capstone 1\satcas\satcas\bin\satcas.dll
+T:\Capstone 1\satcas\satcas\bin\satcas.pdb
+T:\Capstone 1\satcas\satcas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+T:\Capstone 1\satcas\satcas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+T:\Capstone 1\satcas\satcas\obj\Debug\satcas.csprojResolveAssemblyReference.cache
+T:\Capstone 1\satcas\satcas\obj\Debug\satcas.dll
+T:\Capstone 1\satcas\satcas\obj\Debug\satcas.pdb

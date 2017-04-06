@@ -1,0 +1,41 @@
+﻿body {
+}
+
+.tab{
+    border-style: solid;
+    border-color: black;
+    border-radius: 7px;
+    margin: 20px 20px 20px 20px;
+    background-color: #9E1B34;
+    color: white;
+}
+
+.tab h1, h2, h3, h4, h5, h6, p{
+    font-weight: bold;
+    padding: 10px 10px 10px 10px;
+}
+
+.tab-content{
+    border-top-style: solid;
+    border-color: black;
+    background-color: white;
+    color: black;
+}
+
+.tab-content h1, h2, h3, h4, h5, h6, p{
+    margin: 0px 20px 0px 20px;
+}
+
+.btn-temple{
+    color: white;
+    background-color: #9E1B34;
+}
+
+.ddl{
+    border-radius: 5px;
+    padding: 3px 10px 3px 10px;
+}
+
+.icon-attachment-30{
+    background-image: url('../Images/Attach-Icon-25.png');
+}
